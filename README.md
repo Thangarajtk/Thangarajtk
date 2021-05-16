@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full Stack Automation (Web/API/Mobile)
+- 🔭 I’m currently working on Full Stack Automation
 - 🌱 I’m currently learning DevOps
 - 🤔 I’m looking for help with Cloud technologies
 - 💬 Ask me about Anything related to automation
