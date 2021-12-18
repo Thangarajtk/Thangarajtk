@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full Stack Automation
+- 🔭 I’m currently working as Software Development Engineer in Test (SDET)
 - 🌱 I’m currently learning DevOps
 - 🤔 I’m looking for help with Cloud technologies
-- 💬 Ask me about Anything related to automation
+- 💬 Ask me about Anything related to test automation
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Thangarajtk.Thangarajtk)
 
