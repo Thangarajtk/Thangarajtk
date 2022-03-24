@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thangarajtk&label=Profile%20views&color=0e75b6&style=flat" alt="thangarajtk" /> </p>
 
-- 🔭 I’m currently working on [Appium](https://github.com/Thangarajtk/appium-mobileAutomationFramework)
+- 🔭 I’m currently working on [Rest Assured - API Automation](https://github.com/Thangarajtk/restassured-api-automation)
 
 - 🌱 I’m currently learning **API automation framework design**
 
-- 👯 I’m looking to collaborate on **Automation framework design**
+- 👯 I’m looking to collaborate on **Automation framework design and development**
 
 - 🤝 I’m looking for help with **Cloud (AWS)**
 
