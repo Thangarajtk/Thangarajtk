@@ -35,7 +35,7 @@
    <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
    <img src="https://github.com/rest-assured/rest-assured/blob/master/rest-assured-logo-green.png" alt="REST Assured" width="120" height="40"/> </a> 
    <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="45" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
   <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/ac1e1/cypress-logo.webp" alt="cypress" width="75" height="40"/> </a>
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -54,12 +54,15 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+   <a href="https://docs.pytest.org" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" alt="pytest" width="55" height="45"/> </a>  
   <a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
   <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="90" height="40"/> </a>
   <a href="https://www.katalon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png?20180517091013" alt="katalon" width="100" height="40"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png?20180517091013" alt="katalon" width="90" height="50"/> </a>
   <a href="https://saucelabs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/055/original/Sauce-Labs_Vert_Red-Grey_RGB-1000x1000.png?1543624837" alt="saucelabs" width="60" height="50"/> </a>
+  <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/055/original/Sauce-Labs_Vert_Red-Grey_RGB-1000x1000.png?1543624837" alt="saucelabs" width="50" height="45"/> </a>
+  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg" alt="browserstack" width="100" height="50"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangarajtk&show_icons=true&locale=en&layout=compact" alt="thangarajtk" /></p>
