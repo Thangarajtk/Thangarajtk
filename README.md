@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thangarajtk](https://github.com/Thangarajtk)
 
-- 💬 Ask me about **Selenium, Appium, WebdriverIO, DevOps (Jenkins, Docker)**
+- 💬 Ask me about **Selenium, Appium, WebdriverIO, Cucumber, DevOps (Jenkins, Docker)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/thangaraj-kumaraswamy/**
 
@@ -56,13 +56,15 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
    <a href="https://docs.pytest.org" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" alt="pytest" width="55" height="45"/> </a>  
   <a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
-  <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="90" height="40"/> </a>
+  <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="100" height="45"/> </a>
   <a href="https://www.katalon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png?20180517091013" alt="katalon" width="90" height="50"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png?20180517091013" alt="katalon" width="100" height="45"/> </a>
   <a href="https://saucelabs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/055/original/Sauce-Labs_Vert_Red-Grey_RGB-1000x1000.png?1543624837" alt="saucelabs" width="50" height="45"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-ar21.svg" alt="saucelabs" width="90" height="50"/> </a>
   <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://d2ogrdw2mh0rsl.cloudfront.net/production/images/static/header/header-logo.svg" alt="browserstack" width="100" height="50"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" alt="browserstack" width="90" height="50"/> </a>
+   <a href="https://aerokube.com/selenoid/latest/" target="_blank" rel="noreferrer"> 
+  <img src="https://aerokube.com/selenoid/latest/img/og-image.jpg" alt="selenoid" width="90" height="50"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangarajtk&show_icons=true&locale=en&layout=compact" alt="thangarajtk" /></p>
