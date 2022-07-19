@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thangarajtk&label=Profile%20views&color=0e75b6&style=flat" alt="thangarajtk" /> </p>
 
-- 🔭 I’m currently working on [Rest Assured - API Automation](https://github.com/Thangarajtk/restassured-api-automation)
+- 🔭 I’m currently working on [Appium with Java (BDD) - Mobile Automation Framework](https://github.com/Thangarajtk/appium-mobile-automation-framework-bdd)
 
 - 🌱 I’m currently learning **API automation framework design**
 
