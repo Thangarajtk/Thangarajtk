@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Thangaraj K</h1>
 <h3 align="center">Software Development Engineer in Test (SDET)</h3>
 
-<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width=400 alt="Coder" />
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width=400 alt="Coder"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thangarajtk&label=Profile%20views&color=0e75b6&style=flat" alt="thangarajtk" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=thangarajtk&label=Profile%20views&color=0e75b6&style=flat" alt="thangarajtk" />
+<img src="https://img.shields.io/github/followers/Thangarajtk?style=social" alt="GitHub followers" />
+</p>
 
-- 🔭 I’m currently working on [API Automation using Spring Boot](https://github.com/Thangarajtk/api-automation-springboot)
+- 🔭 I’m currently working on **Refactoring & enhancing different test automation frameworks** 
 
-- 🌱 I’m currently learning **API automation framework design**
+- 🌱 I’m currently learning **New tools and technology**
 
-- 👯 I’m looking to collaborate on **Automation framework design and development**
+- 👯 I’m looking to collaborate on **Test Automation framework design and development**
 
-- 🤝 I’m looking for help with **Cloud (AWS)**
+- 🤝 I’m looking for help with **Cloud tools and technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thangarajtk](https://github.com/Thangarajtk)
 
-- 💬 Ask me about **Selenium, Appium, WebdriverIO, Cucumber, DevOps (Jenkins, Docker)**
+- 💬 Ask me about **Test automation framework design, tools and techniques (Web, Mobile & API/Microservices)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/thangaraj-kumaraswamy/**
 
@@ -24,7 +27,7 @@
 <a href="https://linkedin.com/in/thangaraj-kumaraswamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thangaraj-kumaraswamy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech stack:</h3>
 <p align="left"> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
