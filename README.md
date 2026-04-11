@@ -1,92 +1,220 @@
-<h1 align="center">Hi 👋, I'm Thangaraj K</h1>
-<h3 align="center">Software Development Engineer in Test (SDET)</h3>
+<div align="center">
 
-<p align="center">
-<a href="https://linkedin.com/in/thangaraj-kumaraswamy" target="blank"><img align="center" src="https://img.shields.io/badge/-Thangaraj%20K-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thangaraj-kumaraswamy/" alt="thangaraj-kumaraswamy" /></a>
-<a href="https://github.com/Thangarajtk" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white&link=https://github.com/Thangarajtk" alt="Thangarajtk" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Thangaraj+Kumaraswamy;Lead+SDET+%26+Automation+Architect;Building+Quality+at+Enterprise+Scale" alt="Typing SVG" />
 
----
+<br/>
 
-<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width=400 alt="Coder"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thangaraj-kumaraswamy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://thangarajtk.github.io)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangarajatk@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=thangarajtk&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Thangarajtk)
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=thangarajtk&label=Profile%20views&color=0e75b6&style=flat" alt="thangarajtk" />
-<img src="https://img.shields.io/github/followers/Thangarajtk?style=social" alt="GitHub followers" />
-</p>
-
-- 🔭 I’m currently working on **Refactoring & enhancing different test automation frameworks** 
-
-- 🌱 I’m currently learning **New tools and technology**
-
-- 👯 I’m looking to collaborate on **Test Automation framework design and development**
-
-- 🤝 I’m looking for help with **Cloud tools and technology**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Thangarajtk](https://github.com/Thangarajtk)
-
-- 💬 Ask me about **Test automation framework design, tools and techniques (Web, Mobile & API/Microservices)**
-
-- 📫 How to reach me **https://www.linkedin.com/in/thangaraj-kumaraswamy/**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thangaraj-kumaraswamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thangaraj-kumaraswamy" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## About
+
+Lead SDET & Automation Architect specializing in enterprise-grade test automation across distributed microservices, cloud infrastructure, and event-driven data pipelines. I focus on multi-platform quality engineering — spanning API, UI, mobile, database, and performance — while building engineering cultures that are collaborative and quality-first.
+
+- 🏢 Designing automation frameworks for complex microservice ecosystems at enterprise scale
+- 🤖 Actively exploring **AI-powered testing** — GitHub Copilot, custom AI agents, MCP & RAG-based automation
+- 🧑‍🏫 Passionate about **engineering standards** — design patterns, code reviews, and scalable automation architecture
+- 🤝 Open to collaborating on **test automation frameworks & open source QA tooling**
+
+</td>
+<td valign="center" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coder"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="left">Languages and tools:</h3>
-<p align="left"> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/6512473?s=200&v=4" alt="webdriverio" width="45" height="40"/> </a> 
-  <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://camo.githubusercontent.com/3eb867d17687f3afdc1f69c250427f98c9577286e83d4d8c10ca7683287549ad/68747470733a2f2f7777772e6b6579746f72632e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30382f61707069756d2e706e67" alt="appium" width="90" height="50"/> </a>
-   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
-   <img src="https://github.com/rest-assured/rest-assured/blob/master/rest-assured-logo-green.png" alt="REST Assured" width="120" height="40"/> </a> 
-   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_48x48.png" alt="cypress" width="45" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="junit" width="40" height="40"/> </a> 
-  <a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="testng" width="40" height="40"/> </a> 
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-   <a href="https://docs.pytest.org" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" alt="pytest" width="55" height="45"/> </a>  
-  <a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"> 
-  <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="95" height="45"/> </a>
-  <a href="https://www.katalon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" alt="katalon" width="100" height="45"/> </a>
-  <a href="https://saucelabs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-ar21.svg" alt="saucelabs" width="90" height="50"/> </a>
-  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" alt="browserstack" width="90" height="50"/> </a>
-   <a href="https://aerokube.com/selenoid/latest/" target="_blank" rel="noreferrer"> 
-  <img src="https://aerokube.com/selenoid/latest/img/og-image.jpg" alt="selenoid" width="90" height="50"/> </a>
-   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="90" height="50"/> </a>
-</p>
+## Technical Skills
+
+<details open>
+<summary><b>⚡ Languages</b></summary>
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Automation</b></summary>
+<br/>
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-08B5E5?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile Automation</b></summary>
+<br/>
+
+![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔌 API & Service Testing</b></summary>
+<br/>
+
+![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logoColor=white)
+![Karate DSL](https://img.shields.io/badge/Karate_DSL-009688?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-2F2F2F?style=for-the-badge&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🥒 BDD & Test Frameworks</b></summary>
+<br/>
+
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/Serenity_BDD-005C84?style=for-the-badge&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & Intelligent Automation</b></summary>
+<br/>
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📊 Performance Testing</b></summary>
+<br/>
+
+![Gatling](https://img.shields.io/badge/Gatling-FF9600?style=for-the-badge&logo=gatling&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps & CI/CD</b></summary>
+<br/>
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Concourse CI](https://img.shields.io/badge/Concourse_CI-3398DC?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & AWS</b></summary>
+<br/>
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route53-4053D6?style=for-the-badge&logo=amazonroute53&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📡 Event Streaming</b></summary>
+<br/>
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔭 Observability & Monitoring</b></summary>
+<br/>
+
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧪 Cloud Testing Platforms</b></summary>
+<br/>
+
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
+![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Version Control & Build</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+</details>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangarajtk&hide=html,css&theme=radical)
+## GitHub Stats
 
-![Thangaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangarajtk&theme=radical)
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangarajtk&theme=radical" alt="thangarajtk" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=thangarajtk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangarajtk&layout=compact&hide=html,css&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=thangarajtk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Quality is not an act — it is a habit."*
+
+</div>
