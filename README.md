@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Thangaraj+Kumaraswamy;Lead+SDET+%26+Automation+Architect;Building+Quality+at+Enterprise+Scale" alt="Typing SVG" />
 
@@ -13,9 +13,9 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="480" alt="Coder"/>
+</div>
 
 ## About
 
@@ -25,15 +25,6 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 - 🤖 Actively exploring **AI-powered testing** — GitHub Copilot, custom AI agents, MCP & RAG-based automation
 - 🧑‍🏫 Passionate about **engineering standards** — design patterns, code reviews, and scalable automation architecture
 - 🤝 Open to collaborating on **test automation frameworks & open source QA tooling**
-
-</td>
-<td valign="center" width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coder"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -99,7 +90,7 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 </details>
 
 <details open>
-<summary><b>🤖 AI & Intelligent Automation</b></summary>
+<summary><b>🤖 Intelligent AI-Augmented Automation</b></summary>
 <br/>
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
@@ -139,7 +130,6 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 ![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route53-4053D6?style=for-the-badge&logo=amazonroute53&logoColor=white)
 
 </details>
 
@@ -171,6 +161,7 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -199,21 +190,15 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 
 ## GitHub Stats
 
-<div align="center">
+<div style="text-align: center;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thangarajtk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangarajtk&layout=compact&hide=html,css&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=thangarajtk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img src="https://streak-stats.demolab.com/?user=thangarajtk&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="github-stats"/>
 
 </div>
 
 ---
 
-<div align="center">
+<div style="text-align: center;">
 
 *"Quality is not an act — it is a habit."*
 
