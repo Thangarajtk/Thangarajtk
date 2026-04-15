@@ -90,10 +90,11 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 </details>
 
 <details open>
-<summary><b>🤖 Intelligent AI-Augmented Automation</b></summary>
+<summary><b>🤖 AI-Augmented Automation</b></summary>
 <br/>
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-005C84?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
 
@@ -120,7 +121,7 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & AWS</b></summary>
+<summary><b>☁️ Cloud & AWS Services</b></summary>
 <br/>
 
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
@@ -130,6 +131,8 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 ![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-3398DC?style=for-the-badge&logo=route53&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR-4053D6?style=for-the-badge&logo=emr&logoColor=white)
 
 </details>
 
