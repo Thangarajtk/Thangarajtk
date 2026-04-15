@@ -24,7 +24,7 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 - 🏢 Designing automation frameworks for complex microservice ecosystems at enterprise scale
 - 🤖 Actively exploring **AI-powered testing** — GitHub Copilot, custom AI agents, MCP & RAG-based automation
 - 🧑‍🏫 Passionate about **engineering standards** — design patterns, code reviews, and scalable automation architecture
-- 🤝 Open to collaborating on **test automation frameworks & open source QA tooling**
+- 🤝 Open to collaborating on **test automation frameworks and contributing to open-source QA tools**
 
 ---
 
@@ -173,7 +173,8 @@ Lead SDET & Automation Architect specializing in enterprise-grade test automatio
 <br/>
 
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
-![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=for-the-badge&logoColor=white)
+![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white)
+![TestMu AI](https://img.shields.io/badge/TestMu_AI-FF6C37?style=for-the-badge&logo=testmuai&logoColor=white)
 
 </details>
 
